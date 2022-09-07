@@ -37,6 +37,7 @@
     max-width: 1920px;
     height: 450px;
     background-color: #1F2937;
+    display: flex;
   }
 
 .headertwocontainer {
@@ -73,3 +74,57 @@
     text-align: center;
  }
 
+
+.second {
+    display: inline;
+    max-width: 500px;
+    padding-left: 400px;
+    padding-top: 40px;
+}
+
+.mainpartone {
+    background-color: white;
+    max-width: 1920px;
+    height: 450px;
+}
+
+.mainparttwo {
+    background-color: #e5e7eb;
+    max-width: 1920px;
+    height: 450px;
+}
+
+h2 {
+    font-size: 36px;
+    color: #1F2937;
+    text-align: center;
+    font-weight: bold;
+}
+
+.maincontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    margin-left: 360px;
+    margin-top: 80px;
+    }
+
+
+.photoone,
+.phototwo,
+.photothree,
+.photofour {
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 14px;
+    display: flex;
+    width: 200px;
+}
+
+.phototext {
+    font-size: 18px;
+    color: #1F2937;
+    display: flex;
+    flex-wrap: wrap;
+}
