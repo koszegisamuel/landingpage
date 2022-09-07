@@ -30,7 +30,7 @@
 .first {
     display: flex;
     max-width: 150px;
-    margin-right: 512px;
+    margin-right: 495px;
 }
 
 .headertwo {
@@ -88,11 +88,7 @@
     height: 450px;
 }
 
-.mainparttwo {
-    background-color: #e5e7eb;
-    max-width: 1920px;
-    height: 450px;
-}
+
 
 h2 {
     font-size: 36px;
@@ -128,3 +124,94 @@ h2 {
     display: flex;
     flex-wrap: wrap;
 }
+
+.mainparttwo {
+    background-color: #e5e7eb;
+    max-width: 1920px;
+    height: 450px;
+}
+
+.textt {
+    font-style: italic;
+    font-size: 36px;
+    color: #1F2937;
+    text-align: center;
+    padding-top: 140px;
+    padding-bottom: 0px;
+    margin-right: 425px;
+    margin-left: 425px;
+    margin-bottom: 0px;
+}
+
+.thor {
+    font-size: 24px;
+    color: #1F2937;
+    font-weight: bold;
+    padding-top: 0px;
+    margin-left: 1100px;
+
+}
+
+.mainpartthree {
+    background-color: white;
+    max-width: 1920px;
+    height: 350px;
+}
+
+.lastpartcontainer {
+    background-color: #3882F6;
+    width: 1300px;
+    height: 250px;
+    margin-top: 120px;
+    margin-left: 260px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lasttext {
+    font-size: 18px;
+    color: #F9FAF8;
+    margin-right: 200px;
+    margin-block-start: 0px;
+    }
+
+.lastbold {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+    display: flex;
+    flex: 1 1 auto;
+}
+
+.signuptwo {
+    width: 100px;
+    height: 35px;
+    border-radius: 8px;
+    color: #F9FAF8;
+    background-color: #3882F6;
+    border: #F9FAF8 4px;
+    display: flex;
+    font-size: 20px;
+    padding-top: 4px;
+    padding-left: 10px;
+    text-align: center;
+    border: solid;
+    border-color: #F9FAF8 3px;
+    }
+
+    .footer {
+        background-color: #1F2937;
+        max-width: 1920px;
+        height: 95px;
+        
+    }
+
+    .copyright {
+        font-size: 18px;
+        color: #F9FAF8;
+        text-align: center;
+        padding-top: 40px;
+         
+
+    }
